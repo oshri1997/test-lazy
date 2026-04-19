@@ -1,2 +1,3 @@
-dev 1 role developer
-session id: calm-bear-88
+Developer: dev 1
+Role: developer
+Session ID: calm-bear-88
