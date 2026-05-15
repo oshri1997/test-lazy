@@ -1,3 +1,4 @@
-Developer: Dev 1
+Developer Registration
 Role: Developer
 Session ID: calm-bear-88
+Status: Dev 1
