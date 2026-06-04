@@ -1,2 +1,4 @@
 Register as dev 1 role developer
+Developer: Dev 1
+Role: Developer
 Session ID: calm-bear-88
